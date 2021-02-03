@@ -1,4 +1,4 @@
-baseURL = "https://cherriness.netlify.com"
+baseURL = "https://cherriness.netlify.app/"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
